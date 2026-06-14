@@ -66,24 +66,6 @@ An AI-powered system that automates lead discovery, scoring, and outreach.
 **Stack:** Python • Streamlit • LLM APIs • SerpAPI
 
 ---
-
-## `Engineering Mindset`
-
-- I build systems to understand how they work  
-- I prefer simple, modular architecture  
-- I focus on real-world usability over complexity  
-- I learn by implementing, not just studying  
-- I value clarity and maintainability in code  
-
----
-
-## `Mindset`
-
-I’m not trying to build everything.  
-I’m trying to understand how things are built.
-
----
-
 <div align="center">
 
 Building. Learning. Improving.

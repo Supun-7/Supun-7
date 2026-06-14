@@ -1,4 +1,4 @@
-# 🧑‍💻 Supun Dharmaratne
+# Supun Dharmaratne
 
 **`Software Engineer | Systems Builder | AI & Backend Enthusiast`**
 

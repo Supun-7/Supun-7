@@ -1,99 +1,82 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Supun</h1>
+# 🧑‍💻 Supun Dharmaratne
 
-<p align="center">
-Software Engineer • Curious Builder • Systems Learner
-</p>
+**`Software Engineer | Systems Builder | AI & Backend Enthusiast`**
 
-<p align="center">
-I learn by building systems that solve real problems.
-</p>
+I’m a software engineer who enjoys understanding how systems work by building them.  
+I focus on backend systems, automation, and AI-driven workflows that solve real problems.
 
----
-
-<!-- LINKS -->
-<p align="center">
-  <a href="https://github.com/Supun-7">
-    <img src="https://img.shields.io/github/followers/Supun-7?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/supun-dharmaratne-41b7ab379/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  </a>
-  <a href="https://medium.com/@supun7buddhima">
-    <img src="https://img.shields.io/badge/Medium-Writing-black?style=for-the-badge">
-  </a>
-</p>
+I don’t build projects to showcase.  
+I build them to understand how things actually work.
 
 ---
 
-### About Me
+## `Connect With Me`
 
-- Software engineer interested in how systems actually work  
-- I enjoy building things to understand them deeply  
-- Focused on backend systems, APIs, and real-world workflows  
-- Strong interest in AI-powered automation and engineering tools  
-- I prefer learning through building over theory or tutorials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-dharmaratne-41b7ab379/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@supun7buddhima)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Supun-7)
 
 ---
 
-### Tech Stack
+## `What I Work With`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,angular,postgres,git,github,elixir" />
-</p>
+**Backend & Systems**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=fastapi&logoColor=white)
+
+**Frontend & Tools**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+**Data & Infra**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-### Featured Projects
+## `Featured Projects`
 
----
+### ⚡ FlowOps — Real-Time Event System
+A real-time event coordination platform built with Phoenix LiveView.
 
-#### ⚡ FlowOps — Real-Time Event System
-A system for managing live events with real-time coordination.
-
-- Real-time dashboards without refresh  
-- Role-based access (admin, organiser, member)  
-- Invitations and attendance tracking  
+- Live dashboards with real-time updates  
+- Role-based system (admin, organiser, member)  
+- Invitation and attendance tracking system  
+- PubSub-based real-time architecture  
 - Event lifecycle management  
-- Live status updates using PubSub  
-- Map integration for event locations  
 
 **Stack:** Elixir • Phoenix • LiveView • PostgreSQL
 
 ---
 
-#### 🤖 LeadLens — AI Lead Generation Tool
-A pipeline that finds companies, scores them, and generates outreach emails.
+### 🤖 LeadLens — AI Lead Generation System
+An AI-powered system that finds companies, scores leads, and generates emails.
 
-- Extracts companies from Google search results  
-- AI-based lead scoring (0–100 fit score)  
-- Generates personalized cold emails using LLMs  
-- End-to-end automation pipeline  
+- Google-based company discovery  
+- AI-based lead scoring (0–100)  
+- Personalized cold email generation using LLMs  
+- End-to-end automated pipeline  
 - CSV export for outreach workflows  
 
 **Stack:** Python • Streamlit • LLM APIs • SerpAPI
 
 ---
 
-### Engineering Approach
+## `Engineering Principles`
 
-- Build systems with clear structure  
-- Prefer modular design over tight coupling  
-- Focus on maintainability and clarity  
-- Use abstraction where it improves understanding  
-- Treat failures as part of system design  
-
----
-
-### Writing
-
-I sometimes write about what I learn while building:
-
-👉 https://medium.com/@supun7buddhima
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?logo=codeforces&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-1E90FF?logo=databricks&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?logo=java&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-4CAF50?logo=target&logoColor=white)
+![API Design](https://img.shields.io/badge/API%20Design-6A1B9A?logo=fastapi&logoColor=white)
 
 ---
 
-### GitHub Stats
+## `GitHub Stats`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Supun-7&show_icons=true&hide_border=true" />
@@ -102,13 +85,15 @@ I sometimes write about what I learn while building:
 
 ---
 
-### Mindset
+## `Mindset`
 
-I’m not trying to build everything.  
-I’m trying to understand how things are built.
+I’m not focused on building many projects.  
+I’m focused on understanding systems deeply by building them.
 
 ---
 
-<p align="center">
-Building. Learning. Repeating.
-</p>
+<div align="center">
+
+**Building systems. Learning constantly. Improving step by step.**
+
+</div>

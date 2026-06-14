@@ -25,9 +25,10 @@ I learn by building, breaking, and improving systems.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=fastapi&logoColor=white)
 
-**Frontend / Tools**  
+**Frontend & Tools**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 **Data & Systems**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -41,26 +42,26 @@ I learn by building, breaking, and improving systems.
 ---
 
 ### ⚡ FlowOps — Real-Time Event System
-A system for managing live events with real-time coordination.
+Real-time event coordination platform built for managing live events efficiently.
 
 - Live dashboards with real-time updates  
 - Role-based access control (admin, organiser, member)  
-- Event invitations & attendance tracking  
-- PubSub-based real-time architecture  
-- OpenStreetMap integration  
+- Event invitation and attendance tracking  
+- PubSub-based real-time communication  
+- Clean layered backend architecture  
 
 **Stack:** Elixir • Phoenix • LiveView • PostgreSQL
 
 ---
 
 ### 🤖 LeadLens — AI Lead Generation System
-An AI pipeline that finds companies, scores leads, and generates outreach emails.
+An AI-powered system that automates lead discovery, scoring, and outreach.
 
-- Google-based company discovery  
-- AI lead scoring (0–100)  
-- AI-generated personalized emails  
-- End-to-end automated workflow  
-- CSV export for outreach campaigns  
+- Finds companies using Google search  
+- AI extracts structured business data  
+- Lead scoring system (0–100 relevance)  
+- AI-generated personalized cold emails  
+- Full automated pipeline (find → score → write → export)  
 
 **Stack:** Python • Streamlit • LLM APIs • SerpAPI
 
@@ -68,17 +69,11 @@ An AI pipeline that finds companies, scores leads, and generates outreach emails
 
 ## `Engineering Mindset`
 
-- Build systems to understand them  
-- Prefer modular and clean architecture  
-- Focus on real-world usability  
-- Learn through implementation  
-- Keep systems simple but scalable  
-
----
-
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/Supun-7/Supun-7/blob/output/github-contribution-grid-snake.svg)
+- I build systems to understand how they work  
+- I prefer simple, modular architecture  
+- I focus on real-world usability over complexity  
+- I learn by implementing, not just studying  
+- I value clarity and maintainability in code  
 
 ---
 

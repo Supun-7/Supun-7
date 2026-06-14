@@ -1,11 +1,11 @@
-# Supun Dharmaratne
+# 🧑‍💻 Supun Dharmaratne
 
-**`Software Engineer | Systems Builder | AI & Backend Enthusiast`**
+**`Software Engineer | Curious Builder | Systems Thinker`**
 
-Software engineer focused on building and understanding real-world systems through hands-on development.  
-I enjoy working on backend architecture, automation, and AI-powered tools that solve practical problems.
+Software engineer focused on understanding systems by building them.  
+I enjoy working on backend systems, automation pipelines, and AI-powered tools that solve real problems.
 
-I learn by building systems, breaking them, and improving them.
+I learn by building, breaking, and improving systems.
 
 ---
 
@@ -17,12 +17,13 @@ I learn by building systems, breaking them, and improving them.
 
 ---
 
-## `Core Skills`
+## `What I Work With`
 
 **Backend & Systems**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=fastapi&logoColor=white)
 
 **Frontend / Tools**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
@@ -31,26 +32,35 @@ I learn by building systems, breaking them, and improving them.
 **Data & Systems**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
 ## `Featured Projects`
 
+---
+
 ### ⚡ FlowOps — Real-Time Event System
-- Live event dashboards  
-- Role-based access control  
-- Real-time updates using PubSub  
-- Event invitation system  
+A system for managing live events with real-time coordination.
+
+- Live dashboards with real-time updates  
+- Role-based access control (admin, organiser, member)  
+- Event invitations & attendance tracking  
+- PubSub-based real-time architecture  
+- OpenStreetMap integration  
 
 **Stack:** Elixir • Phoenix • LiveView • PostgreSQL
 
 ---
 
 ### 🤖 LeadLens — AI Lead Generation System
-- Finds companies from Google  
-- AI lead scoring system  
-- AI-generated cold emails  
-- Full automation pipeline  
+An AI pipeline that finds companies, scores leads, and generates outreach emails.
+
+- Google-based company discovery  
+- AI lead scoring (0–100)  
+- AI-generated personalized emails  
+- End-to-end automated workflow  
+- CSV export for outreach campaigns  
 
 **Stack:** Python • Streamlit • LLM APIs • SerpAPI
 
@@ -58,17 +68,29 @@ I learn by building systems, breaking them, and improving them.
 
 ## `Engineering Mindset`
 
-I focus on:
-- Understanding systems deeply  
-- Building clean and modular architectures  
-- Writing code that is easy to evolve  
-- Learning through real implementation  
+- Build systems to understand them  
+- Prefer modular and clean architecture  
+- Focus on real-world usability  
+- Learn through implementation  
+- Keep systems simple but scalable  
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
-> Shows your GitHub activity as a moving snake 🐍
+![snake animation](https://github.com/Supun-7/Supun-7/blob/output/github-contribution-grid-snake.svg)
 
-```md id="snake"
-![snake gif](https://github.com/Supun-7/Supun-7/blob/output/github-contribution-grid-snake.svg)
+---
+
+## `Mindset`
+
+I’m not trying to build everything.  
+I’m trying to understand how things are built.
+
+---
+
+<div align="center">
+
+Building. Learning. Improving.
+
+</div>

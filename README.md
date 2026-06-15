@@ -34,6 +34,10 @@ Curious builder leveraging AI to transform ideas into products, systems, and res
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+**Tools & Workflow**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+Agile/Scrum development, sprint planning, issue tracking
+
 ---
 
 ## `Featured Projects`

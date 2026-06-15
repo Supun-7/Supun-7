@@ -20,6 +20,8 @@ Curious builder leveraging AI to transform ideas into products, systems, and res
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234B275F?logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix_Framework-%23FD4F00?logo=phoenixframework&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=fastapi&logoColor=white)
 
 **Frontend & Tools**  

@@ -36,6 +36,7 @@ Curious builder leveraging AI to transform ideas into products, systems, and res
 
 **Tools & Workflow**  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
 Agile/Scrum development, sprint planning, issue tracking
 
 ---

@@ -34,6 +34,12 @@ Curious builder leveraging AI to transform ideas into products, systems, and res
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+**AI / Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)
+
 ---
 
 ## `Featured Projects`

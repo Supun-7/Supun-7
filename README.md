@@ -1,11 +1,8 @@
 # 🧑‍💻 Supun Dharmaratne
 
-**`Software Engineer | Curious Builder | Systems Thinker`**
+**`Computer Science Undergraduate | Building Real-World Software Systems`**
 
-Software engineer focused on understanding systems by building them.  
-I enjoy working on backend systems, automation pipelines, and AI-powered tools that solve real problems.
-
-I learn by building, breaking, and improving systems.
+Curious builder leveraging AI to transform ideas into products, systems, and research. Interested in AI/ML, automation, intelligent systems, and solving real-world problems.
 
 ---
 

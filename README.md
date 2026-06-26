@@ -1,4 +1,4 @@
-# 🧑‍💻 Supun Dharmaratne
+# Supun Dharmaratne
 
 **`Computer Science Undergraduate | Building Real-World Software Systems`**
 
@@ -43,6 +43,17 @@ Agile/Scrum development, sprint planning, issue tracking
 
 ## `Featured Projects`
 
+### 🤖 LeadLens — AI Lead Generation System
+An AI-powered system that automates lead discovery, scoring, and outreach.
+
+- Finds companies using Google search  
+- AI extracts structured business data  
+- Lead scoring system (0–100 relevance)  
+- AI-generated personalized cold emails  
+- Full automated pipeline (find → score → write → export)  
+
+**Stack:** Python • Streamlit • LLM APIs • SerpAPI
+
 ---
 
 ### ⚡ FlowOps — Real-Time Event System
@@ -58,18 +69,6 @@ Real-time event coordination platform built for managing live events efficiently
 
 ---
 
-### 🤖 LeadLens — AI Lead Generation System
-An AI-powered system that automates lead discovery, scoring, and outreach.
-
-- Finds companies using Google search  
-- AI extracts structured business data  
-- Lead scoring system (0–100 relevance)  
-- AI-generated personalized cold emails  
-- Full automated pipeline (find → score → write → export)  
-
-**Stack:** Python • Streamlit • LLM APIs • SerpAPI
-
----
 <div align="center">
 
 Building. Learning. Improving.

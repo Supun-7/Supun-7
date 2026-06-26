@@ -43,7 +43,7 @@ Agile/Scrum development, sprint planning, issue tracking
 
 ## `Featured Projects`
 
-### 🤖 LeadLens — AI Lead Generation System
+### LeadLens — AI Lead Generation System
 An AI-powered system that automates lead discovery, scoring, and outreach.
 
 - Finds companies using Google search  
@@ -56,7 +56,7 @@ An AI-powered system that automates lead discovery, scoring, and outreach.
 
 ---
 
-### ⚡ FlowOps — Real-Time Event System
+### FlowOps — Real-Time Event System
 Real-time event coordination platform built for managing live events efficiently.
 
 - Live dashboards with real-time updates  

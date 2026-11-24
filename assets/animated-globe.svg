@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+  <title id="title">Supun Dharmaratne — AI &amp; Product Development Enthusiast</title>
+  <desc id="desc">A compact animated globe and forward-moving orbital path.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="1" stop-color="#102c50"/>
+    </linearGradient>
+    <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#42d9ff"/>
+      <stop offset="1" stop-color="#4767ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#35cfff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#35cfff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="globeClip"><circle cx="1010" cy="80" r="53"/></clipPath>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#8cecff"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="160" rx="18" fill="url(#bg)"/>
+  <circle cx="1010" cy="80" r="78" fill="url(#glow)"/>
+  <path d="M0 137 Q280 121 520 141 T900 132 T1200 137" fill="none" stroke="#60cfff" stroke-opacity=".12"/>
+  <text x="58" y="72" fill="#f3f8ff" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700">Hi, I’m Supun 👋</text>
+  <text x="60" y="108" fill="#8cecff" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing=".4">AI &amp; Product Development Enthusiast</text>
+  <path d="M530 100 C665 25 830 30 941 72" fill="none" stroke="#8cecff" stroke-opacity=".72" stroke-width="1.5" stroke-dasharray="5 8" marker-end="url(#arrow)"/>
+  <circle r="3" fill="#c7f7ff">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M530 100 C665 25 830 30 941 72"/>
+  </circle>
+  <circle cx="1010" cy="80" r="55" fill="#071426" stroke="#8cecff" stroke-width="1.5"/>
+  <circle cx="1010" cy="80" r="53" fill="url(#planet)"/>
+  <g clip-path="url(#globeClip)" fill="none" stroke="#dcfaff" stroke-opacity=".74" stroke-width="1.2">
+    <ellipse cx="1010" cy="80" rx="53" ry="18"/>
+    <ellipse cx="1010" cy="80" rx="53" ry="37"/>
+    <ellipse cx="1010" cy="80" rx="18" ry="53">
+      <animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1010" cy="80" rx="38" ry="53" stroke-opacity=".45">
+      <animateTransform attributeName="transform" type="scale" values="0.12 1;1 1;0.12 1" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <path d="M957 80h106M1010 27v106" stroke-opacity=".35"/>
+  </g>
+  <ellipse cx="1010" cy="80" rx="74" ry="24" fill="none" stroke="#63ddff" stroke-opacity=".7" stroke-width="1.4" transform="rotate(-18 1010 80)"/>
+  <circle r="4" fill="#fff" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M940 103 A74 24 -18 1 0 1080 57 A74 24 -18 1 0 940 103"/>
+  </circle>
+  <text x="1110" y="84" fill="#c5dcf4" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" transform="rotate(90 1110 84)">KEEP MOVING</text>
+</svg>

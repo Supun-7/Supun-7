@@ -21,6 +21,7 @@
 | | |
 |---|---|
 | 👨‍💻 **Name** | Supun Dharmaratne |
+| 🎓 **Degree** | Bachelor of Science (Hons) in Computer Science at SLIIT |
 | 🔭 **Currently working on** | [vesper](https://github.com/Supun-7/vesper) |
 | 🌱 **Currently learning** | AI/LLM integration, React, FastAPI, PostgreSQL, and Docker through recent work on Vesper |
 
@@ -137,6 +138,7 @@ I share what I learn on Medium: [Medium @supun7buddhima](https://medium.com/@sup
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-dharmaratne/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@supun7buddhima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supundharmaratne@outlook.com)
 
 </div>
 

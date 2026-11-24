@@ -85,48 +85,20 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Supun-7&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supun-7/Supun-7/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supun-7/Supun-7/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Supun-7/Supun-7/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## ✍️ Writing
 
 I share what I learn on Medium: [Medium @supun7buddhima](https://medium.com/@supun7buddhima).
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Supun-7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-dharmaratne/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@supun7buddhima)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supundharmaratne@outlook.com)
-
+  <img src="https://raw.githubusercontent.com/Supun-7/Supun-7/main/assets/lets-connect.svg" alt="A little animated envelope saying hello" width="140" />
+  <br />
+  <a href="https://www.linkedin.com/in/supun-dharmaratne/">LinkedIn</a> ·
+  <a href="https://medium.com/@supun7buddhima">Medium</a> ·
+  <a href="mailto:supundharmaratne@outlook.com">Email</a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />

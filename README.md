@@ -1,5 +1,5 @@
-<!-- Header banner (animated wave) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Supun%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20%26%20Product%20Development%20Enthusiast&descSize=24&descAlign=50&descAlignY=55" />
+<!-- Header banner (animated globe) -->
+<img width="100%" src="https://raw.githubusercontent.com/Supun-7/Supun-7/main/assets/animated-globe.svg" alt="Supun Dharmaratne — AI & Product Development Enthusiast" />
 
 <!-- Typing animation -->
 <div align="center">

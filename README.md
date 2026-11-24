@@ -94,7 +94,7 @@ I share what I learn on Medium: [Medium @supun7buddhima](https://medium.com/@sup
 ## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Supun-7/Supun-7/main/assets/lets-connect.svg" alt="A little animated envelope saying hello" width="140" />
+  <img src="https://raw.githubusercontent.com/Supun-7/Supun-7/main/assets/lets-connect.svg" alt="Animated jungle-to-city connection scene" width="100%" />
   <br />
   <a href="https://www.linkedin.com/in/supun-dharmaratne/">LinkedIn</a> ·
   <a href="https://medium.com/@supun7buddhima">Medium</a> ·
